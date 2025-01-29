@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.manrope-font{
+    font-family: "Manrope", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+  /* Add this to your CSS file if not using Tailwind */
+.common-container {
+    max-width: 1280px; /* Adjust as needed */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem; /* Optional: Add padding for better spacing */
+    padding-right: 1rem; /* Optional: Add padding for better spacing */
+  }
